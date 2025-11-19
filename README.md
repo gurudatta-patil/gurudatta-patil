@@ -11,12 +11,14 @@
 - I specialize in optimizing high-performance cloud infrastructure and integrating Large Language Models (LLMs) into real-world products.
 
 #### Work 🔭
-- **[HP Inc.](https://www.hp.com)** — Software Development Engineer II (Jan 2025 — Present).
+- **[HP Inc.](https://www.hp.com)**
+  - Software Development Engineer II (Jan 2025 — Present)
+  - Software Engineering Intern (May 2024 — Aug 2024)
+- **[UW Madison](https://www.wisc.edu)** — Research Assistant (2023 — 2024).
 - **[Razorpay](https://razorpay.com)** — Software Development Engineer I (Feb 2022 — Aug 2023).
 - **[TomTom](https://www.tomtom.com)** — Software Engineer Intern (Jul 2021 — Dec 2021).
-- **[UW Madison](https://www.wisc.edu)** — Research Assistant (2023 — 2024).
 - Currently building an **AI-Powered Interactive Storytelling Game** in my free time.
-
+  
 #### Current Interests 🌱
 - **[Python](https://www.python.org/)** & **[Go](https://go.dev/)**
 - **Generative AI** (OpenAI, LangChain, TogetherAI)
@@ -26,6 +28,7 @@
 #### Love talking about 💬
 - System Design & Microservices
 - LLM Infrastructure
+- Data Structures
 
 #### Get in touch 📫
 - LinkedIn: **[linkedin.com/in/gurudattapatil](https://linkedin.com/in/gurudattapatil/)**
