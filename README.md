@@ -26,12 +26,11 @@
 #### Love talking about 💬
 - System Design & Microservices
 - LLM Infrastructure
-- Gacha Game Mechanics
 
 #### Get in touch 📫
 - LinkedIn: **[linkedin.com/in/gurudattapatil](https://linkedin.com/in/gurudattapatil/)**
 - Mail: **[mail.gurudattapatil@gmail.com](mailto:mail.gurudattapatil@gmail.com)**
 
 **Fun facts ⚡**
-- I once built a deep learning model to detect traffic signs from satellite imagery to automate map updates.
-- I am currently architecting a PVP game backend that handles deep character progression and equipment systems.
+- I enjoy working out.
+- I love playing Table Tennis 🏓
